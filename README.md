@@ -57,7 +57,7 @@ This project examines 11 music attributes provided by Spotify. Here is the expla
 * **Duration_ms**: the duration of the track in milliseconds.
 * **Key**: the key the track is in. Integers map to pitches using standard Pitch Class notation.
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/34e1e970-e790-4e2f-a030-a6cc27fa971f)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/135afeaa-2003-4026-a983-5b596b8a03aa)
 
 
 ## Correlation between Audio Features and the State of the US Economy.
