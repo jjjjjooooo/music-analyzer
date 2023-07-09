@@ -85,6 +85,9 @@ It is clear that certain audio features, including danceability, loudness, and t
 ## Correlation between Audio Features and the State of the US Economy.
 Considering the variations in the audio features over the years, it would be intriguing to explore their relationship with the economy. To investigate this, we will utilize the Nasdaq Composite Index (^IXIC), the S&P 500 Index (^SPX), and the Dow Jones Index (^DJI) as proxies for the economy.
 
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/c04a4b25-65c5-4e63-a967-2a0608e433c8)
+
+
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/2a985935-aba3-4e36-8629-0bc5e3aa6ad4)
 
 Based on the heatmap analysis, it can be observed that the audio feature danceability exhibits a positive correlation with the stock market, to some extent. Conversely, duration_ms demonstrates a negative correlation with the stock market. This implies that during periods of economic growth, there is a higher preference for music with a greater danceability factor. Simultaneously, listeners may show less patience for songs with longer durations.
