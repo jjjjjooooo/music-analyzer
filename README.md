@@ -1,6 +1,6 @@
 Analysis of pop music
 
-# Introduction
+# Motivation
 In 2021, the global music industry experienced its fastest growth rate in over two decades, with a total revenue of $25.9 billion, representing an impressive 18.5% increase. Pop music played a significant role in driving this revenue, thanks to artists such as Taylor Swift, Ed Sheeran, and Justin Bieber. The surge in music sales was primarily fueled by the streaming segment, which witnessed a considerable rise in the number of paying subscribers. Notably, the number of paid subscribers reached 523 million in 2021, a substantial increase from the 443 million recorded in 2020.<br />
 
 These remarkable trends have caught my attention, leading me to conduct data analysis using the valuable data provided by the Spotify API. Through this analysis, I aim to explore intriguing questions such as:<br />
