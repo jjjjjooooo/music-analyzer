@@ -20,7 +20,7 @@ These remarkable trends have caught my attention, leading me to conduct data ana
 # Data Analysis and Viasualization
 In general, the data analysis is conducted on a dataset that includes 970 artists, 33,200 albums, and 167,203 tracks.
 ## Most Influential Artists
-### Two measures of prevalence in Spotify.
+Two measures of prevalence in Spotify.
 
 * **Followers**: The number of people following the artist.
 * **Popularity**: The Spotify popularity index is a number from 0-100 and comes directly from Spotify. 100 meaning the highest possible level of popularity attainable on Spotify.
@@ -28,8 +28,6 @@ In general, the data analysis is conducted on a dataset that includes 970 artist
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/3e9642cf-62c7-494a-b494-325c06185861)
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/f62e20c5-4a18-4385-868f-300e7a95f05c)
-
-### Summary
 
 Taking into account the follower count and popularity data provided by Spotify, the following artists are deemed to be highly influential within the pop music genre. They have secured a position in both the "Top 20 Artists with the Most Popularity" and the "Top 20 Artists with the Most Followers" lists:
 
@@ -62,7 +60,7 @@ These artists have proven their significance and impact on the music industry, c
 
 ## Evolution of Audio Features
 
-### Audio Features
+Audio Features
 This project examines 11 music attributes provided by Spotify. Here is the explanation from Spotify's document.
 
 * **Acousticness**: a confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
