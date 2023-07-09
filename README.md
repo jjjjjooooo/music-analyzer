@@ -9,27 +9,27 @@ These remarkable trends have caught my attention, leading me to conduct data ana
 2. How has the pop music market evolved in terms of its market size and audio features?<br />
 3. Is there a correlation between the development of audio features and the state of the US economy?<br />
 
-## Data
+## Folders and Files
 * **genre_artist**: The folder is created to store information about the pertinent artists within a specific music genre.
 * **artist_album**: The folder is created to store information about the albums by artists.
 * **artist_track**: The folder is created to store information about the tracks by artists.
 * **track_analysis**: The folder is created to store information about the analysis conducted on the tracks.
 * **spotifyapp.py**: This file includes the relevant class and functions required to download and manage all the aforementioned data.
-* **EDA.ipynb**: An exploratory data analysis notebook based on the provided data.
+* **evaluation.ipynb**: Data analysis and visualization based on the provided data.
 
-## Data Viasualization
+## Data Analysis and Viasualization
 In general, the data analysis is conducted on a dataset that includes 970 artists, 33,200 albums, and 167,203 tracks.
 ### Most Influential Artists
 
-![image](https://github.com/jjjjjooooo/Spotify/assets/50882720/474a93d5-d6ad-4536-a212-a81d5cb0b63e)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/f938dcc1-f3ec-48b2-98d8-046e1a6db74c)
 
-![image](https://github.com/jjjjjooooo/Spotify/assets/50882720/b114ac8e-5e8c-452c-99d1-82ce202c16d8)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/61f78701-4a06-46b2-ba0a-a8e33bb90286)
 
 ### Evolution of Market Size
 
-![image](https://github.com/jjjjjooooo/Spotify/assets/50882720/0e8710ba-281d-43aa-9599-c0273844af06)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/7e756ba0-6334-4ecd-8878-7805a1aea129)
 
-![image](https://github.com/jjjjjooooo/Spotify/assets/50882720/53a40a05-51fd-41a4-8d8c-12340b7b027f)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/2031a965-f55f-49b8-bddc-876e712a7658)
 
 ### Evolution of Audio Features
 
@@ -47,17 +47,16 @@ This project examines 11 music attributes provided by Spotify. Here is the expla
 * **Duration_ms**: the duration of the track in milliseconds.
 * **Key**: the key the track is in. Integers map to pitches using standard Pitch Class notation.
 
-![image](https://github.com/jjjjjooooo/Spotify/assets/50882720/6d828a81-c52e-405a-9107-4fa2fd2b4f3a)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/562c5a2a-f71b-42cc-9ee2-6194c9715b89)
 
 
-# Correlation between Audio Features and the State of the US Economy.
+### Correlation between Audio Features and the State of the US Economy.
 Considering the variations in the audio features over the years, it would be intriguing to explore their relationship with the economy. To investigate this, we will utilize the Nasdaq Composite Index (^IXIC), the S&P 500 Index (^SPX), and the Dow Jones Index (^DJI) as proxies for the economy.
 
-![image](https://github.com/jjjjjooooo/Spotify/assets/50882720/646be5f1-17a4-49bb-af3f-e91e7f2d694c)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/899d6e4b-1be6-46f1-b67f-eb1227bf22ed)
 
 
-
-
+## Conclusion
 
 
 
