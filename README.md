@@ -29,6 +29,26 @@ In general, the data analysis is conducted on a dataset that includes 970 artist
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/f62e20c5-4a18-4385-868f-300e7a95f05c)
 
+### Summary
+
+Taking into account the follower count and popularity data provided by Spotify, the following artists are deemed to be highly influential within the pop music genre. They have secured a position in both the "Top 20 Artists with the Most Popularity" and the "Top 20 Artists with the Most Followers" lists:
+
+1. Taylor Swift
+2. The Weeknd
+3. Drake
+4. BTS
+5. Ed Sheeran
+6. Justin Bieber
+7. Rihanna
+8. Bruno Mars
+9. Post Malone
+10. Coldplay
+11. Ariana Grande
+12. Dua Lipa
+13. Imagine Dragons
+
+These artists have proven their significance and impact on the music industry, consistently garnering a vast number of followers and maintaining high levels of popularity.
+
 ## Evolution of Market Size
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/7828494f-0c91-42eb-b719-41a8a6bb388d)
@@ -66,30 +86,6 @@ Considering the variations in the audio features over the years, it would be int
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/2a985935-aba3-4e36-8629-0bc5e3aa6ad4)
 
 
-# Summary
-## Who are the most influential artists within the pop music genre?
-Taking into account the follower count and popularity data provided by Spotify, the following artists are deemed to be highly influential within the pop music genre. They have secured a position in both the "Top 20 Artists with the Most Popularity" and the "Top 20 Artists with the Most Followers" lists:
-
-1. Taylor Swift
-2. The Weeknd
-3. Drake
-4. BTS
-5. Ed Sheeran
-6. Justin Bieber
-7. Rihanna
-8. Bruno Mars
-9. Post Malone
-10. Coldplay
-11. Ariana Grande
-12. Dua Lipa
-13. Imagine Dragons
-
-These artists have proven their significance and impact on the music industry, consistently garnering a vast number of followers and maintaining high levels of popularity.
-
-## How has the pop music market evolved in terms of its market size and audio features?
-
-
-## Is there a correlation between the development of audio features and the state of the US economy?
 
 
 
