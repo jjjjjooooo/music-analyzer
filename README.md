@@ -1,6 +1,6 @@
-# Analysis of pop music
+Analysis of pop music
 
-## Introduction
+# Introduction
 In 2021, the global music industry experienced its fastest growth rate in over two decades, with a total revenue of $25.9 billion, representing an impressive 18.5% increase. Pop music played a significant role in driving this revenue, thanks to artists such as Taylor Swift, Ed Sheeran, and Justin Bieber. The surge in music sales was primarily fueled by the streaming segment, which witnessed a considerable rise in the number of paying subscribers. Notably, the number of paid subscribers reached 523 million in 2021, a substantial increase from the 443 million recorded in 2020.<br />
 
 These remarkable trends have caught my attention, leading me to conduct data analysis using the valuable data provided by the Spotify API. Through this analysis, I aim to explore intriguing questions such as:<br />
@@ -9,7 +9,7 @@ These remarkable trends have caught my attention, leading me to conduct data ana
 2. How has the pop music market evolved in terms of its market size and audio features?<br />
 3. Is there a correlation between the development of audio features and the state of the US economy?<br />
 
-## Folders and Files
+# Folders and Files
 * **genre_artist**: The folder is created to store information about the pertinent artists within a specific music genre.
 * **artist_album**: The folder is created to store information about the albums by artists.
 * **artist_track**: The folder is created to store information about the tracks by artists.
@@ -17,22 +17,27 @@ These remarkable trends have caught my attention, leading me to conduct data ana
 * **spotifyapp.py**: This file includes the relevant class and functions required to download and manage all the aforementioned data.
 * **evaluation.ipynb**: Data analysis and visualization based on the provided data.
 
-## Data Analysis and Viasualization
+# Data Analysis and Viasualization
 In general, the data analysis is conducted on a dataset that includes 970 artists, 33,200 albums, and 167,203 tracks.
-### Most Influential Artists
+## Most Influential Artists
+### Two measures of prevalence in Spotify.
+
+* **Followers**: The number of people following the artist.
+* **Popularity**: The Spotify popularity index is a number from 0-100 and comes directly from Spotify. 100 meaning the highest possible level of popularity attainable on Spotify.
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/f938dcc1-f3ec-48b2-98d8-046e1a6db74c)
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/61f78701-4a06-46b2-ba0a-a8e33bb90286)
 
-### Evolution of Market Size
+## Evolution of Market Size
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/7e756ba0-6334-4ecd-8878-7805a1aea129)
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/2031a965-f55f-49b8-bddc-876e712a7658)
 
-### Evolution of Audio Features
+## Evolution of Audio Features
 
+### Audio Features
 This project examines 11 music attributes provided by Spotify. Here is the explanation from Spotify's document.
 
 * **Acousticness**: a confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
@@ -50,13 +55,13 @@ This project examines 11 music attributes provided by Spotify. Here is the expla
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/562c5a2a-f71b-42cc-9ee2-6194c9715b89)
 
 
-### Correlation between Audio Features and the State of the US Economy.
+## Correlation between Audio Features and the State of the US Economy.
 Considering the variations in the audio features over the years, it would be intriguing to explore their relationship with the economy. To investigate this, we will utilize the Nasdaq Composite Index (^IXIC), the S&P 500 Index (^SPX), and the Dow Jones Index (^DJI) as proxies for the economy.
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/899d6e4b-1be6-46f1-b67f-eb1227bf22ed)
 
 
-## Conclusion
+# Conclusion
 
 
 
