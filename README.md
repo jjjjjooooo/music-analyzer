@@ -25,15 +25,20 @@ In general, the data analysis is conducted on a dataset that includes 970 artist
 * **Followers**: The number of people following the artist.
 * **Popularity**: The Spotify popularity index is a number from 0-100 and comes directly from Spotify. 100 meaning the highest possible level of popularity attainable on Spotify.
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/f938dcc1-f3ec-48b2-98d8-046e1a6db74c)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/3e9642cf-62c7-494a-b494-325c06185861)
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/61f78701-4a06-46b2-ba0a-a8e33bb90286)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/f62e20c5-4a18-4385-868f-300e7a95f05c)
 
 ## Evolution of Market Size
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/7e756ba0-6334-4ecd-8878-7805a1aea129)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/7828494f-0c91-42eb-b719-41a8a6bb388d)
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/2031a965-f55f-49b8-bddc-876e712a7658)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/c52b7850-1435-4f2a-bb8d-b7fc42a7ca5d)
+
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/d573c289-5505-4326-a3ce-1e720cc466a0)
+
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/d6577120-6841-4894-b5c3-fcae06f7c9f6)
+
 
 ## Evolution of Audio Features
 
@@ -52,13 +57,13 @@ This project examines 11 music attributes provided by Spotify. Here is the expla
 * **Duration_ms**: the duration of the track in milliseconds.
 * **Key**: the key the track is in. Integers map to pitches using standard Pitch Class notation.
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/562c5a2a-f71b-42cc-9ee2-6194c9715b89)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/34e1e970-e790-4e2f-a030-a6cc27fa971f)
 
 
 ## Correlation between Audio Features and the State of the US Economy.
 Considering the variations in the audio features over the years, it would be intriguing to explore their relationship with the economy. To investigate this, we will utilize the Nasdaq Composite Index (^IXIC), the S&P 500 Index (^SPX), and the Dow Jones Index (^DJI) as proxies for the economy.
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/899d6e4b-1be6-46f1-b67f-eb1227bf22ed)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/2a985935-aba3-4e36-8629-0bc5e3aa6ad4)
 
 
 # Conclusion
