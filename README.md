@@ -66,8 +66,14 @@ Considering the variations in the audio features over the years, it would be int
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/2a985935-aba3-4e36-8629-0bc5e3aa6ad4)
 
 
-# Conclusion
+# Summary
+## Who are the most influential artists within the pop music genre?
 
+
+## How has the pop music market evolved in terms of its market size and audio features?
+
+
+## Is there a correlation between the development of audio features and the state of the US economy?
 
 
 
