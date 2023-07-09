@@ -90,7 +90,7 @@ Considering the variations in the audio features over the years, it would be int
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/2a985935-aba3-4e36-8629-0bc5e3aa6ad4)
 
-Based on the heatmap analysis, it can be observed that the audio feature danceability exhibits a positive correlation with the stock market, to some extent. Conversely, duration_ms demonstrates a negative correlation with the stock market. This implies that during periods of economic growth, there is a higher preference for music with a greater danceability factor. Simultaneously, listeners may show less patience for songs with longer durations.
+It can be observed that the audio feature danceability exhibits a positive correlation with the stock market, to some extent. Conversely, duration_ms demonstrates a negative correlation with the stock market. This implies that during periods of economic growth, there is a higher preference for music with a greater danceability factor. Simultaneously, listeners may show less patience for songs with longer durations.
 
 
 
