@@ -49,6 +49,7 @@ Taking into account the follower count and popularity data provided by Spotify, 
 These artists have proven their significance and impact on the music industry, consistently garnering a vast number of followers and maintaining high levels of popularity.
 
 ## Evolution of Market Size
+The evolution of market size is analyzed in terms of the number of albums and tracks released, both on a yearly and monthly basis.
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/7828494f-0c91-42eb-b719-41a8a6bb388d)
 
@@ -58,6 +59,7 @@ These artists have proven their significance and impact on the music industry, c
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/d6577120-6841-4894-b5c3-fcae06f7c9f6)
 
+As observed, the trends in the number of released albums and tracks demonstrate a similar pattern. Both show an increasing trend over the years, with artists exhibiting notably higher activity levels during the month of January.
 
 ## Evolution of Audio Features
 
@@ -78,12 +80,14 @@ This project examines 11 music attributes provided by Spotify. Here is the expla
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/135afeaa-2003-4026-a983-5b596b8a03aa)
 
+It is clear that certain audio features, including danceability, loudness, and tempo, have exhibited an upward trend in recent years. Conversely, features such as instrumentalness, valence, and duration_ms have demonstrated a downward trend. This suggests that there is a growing preference among listeners for music that offers heightened sensory stimulation. This trend aligns with the increasing popularity of short videos, which also emphasize quick and impactful content experiences.
 
 ## Correlation between Audio Features and the State of the US Economy.
 Considering the variations in the audio features over the years, it would be intriguing to explore their relationship with the economy. To investigate this, we will utilize the Nasdaq Composite Index (^IXIC), the S&P 500 Index (^SPX), and the Dow Jones Index (^DJI) as proxies for the economy.
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/2a985935-aba3-4e36-8629-0bc5e3aa6ad4)
 
+Based on the heatmap analysis, it can be observed that the audio feature danceability exhibits a positive correlation with the stock market, to some extent. Conversely, duration_ms demonstrates a negative correlation with the stock market. This implies that during periods of economic growth, there is a higher preference for music with a greater danceability factor. Simultaneously, listeners may show less patience for songs with longer durations.
 
 
 
