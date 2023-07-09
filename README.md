@@ -20,7 +20,8 @@ These remarkable trends have caught my attention, leading me to conduct data ana
 # Data Analysis and Viasualization
 In general, the data analysis is conducted on a dataset that includes 970 artists, 33,200 albums, and 167,203 tracks.
 ## Most Influential Artists
-Two measures of prevalence in Spotify.
+
+Two measures of prevalence in Spotify:
 
 * **Followers**: The number of people following the artist.
 * **Popularity**: The Spotify popularity index is a number from 0-100 and comes directly from Spotify. 100 meaning the highest possible level of popularity attainable on Spotify.
