@@ -49,7 +49,7 @@ Taking into account the follower count and popularity data provided by Spotify, 
 These artists have proven their significance and impact on the music industry, consistently garnering a vast number of followers and maintaining high levels of popularity.
 
 ## Evolution of Market Size
-The evolution of market size is analyzed in terms of the number of albums and tracks released, both on a yearly and monthly basis.
+The evolution of market size is analyzed in terms of the number of albums and tracks released, both on a yearly and monthly basis. It is important to clarify that this analysis encompasses both albums and singles, which are collectively considered within the 'album' category for the purpose of this study.
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/8196be97-9087-4c84-b1b0-7c9fc2fd62b9)
 
