@@ -63,7 +63,7 @@ The evolution of market size is analyzed in terms of the number of albums and tr
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/0b0e0cc4-162d-45ed-bf4f-728087701e82)
 
-As observed, the trends in the number of released albums and tracks demonstrate a similar pattern. Both show an increasing trend over the years, with artists exhibiting notably higher activity levels during the month of January.
+Upon observation, it is evident that there is a noteworthy parallel between the trends in the number of released albums and tracks. Both exhibit an upward trajectory over the years, with artists displaying particularly heightened levels of activity during the month of January. Analyzing the distribution of releases by year and month, the pronounced surge during the month of January persists until approximately 2013 or 2014, after which the activity becomes more evenly spread across different months.
 
 ## Evolution of Audio Features
 
