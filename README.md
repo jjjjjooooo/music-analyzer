@@ -49,17 +49,21 @@ Taking into account the follower count and popularity data provided by Spotify, 
 These artists have proven their significance and impact on the music industry, consistently garnering a vast number of followers and maintaining high levels of popularity.
 
 ## Evolution of Market Size
-The evolution of market size is analyzed in terms of the number of albums and tracks released, both on a yearly and monthly basis.
+The evolution of market size is analyzed in terms of the number of albums and tracks released, both on a yearly and monthly basis. It is important to clarify that this analysis encompasses both albums and singles, which are collectively considered within the 'album' category for the purpose of this study.
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/7828494f-0c91-42eb-b719-41a8a6bb388d)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/8196be97-9087-4c84-b1b0-7c9fc2fd62b9)
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/c52b7850-1435-4f2a-bb8d-b7fc42a7ca5d)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/5e97d2db-7b09-494e-82e1-82407322cdba)
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/d573c289-5505-4326-a3ce-1e720cc466a0)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/8b99cd9a-e4cf-4b94-a809-3f252b60f31b)
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/d6577120-6841-4894-b5c3-fcae06f7c9f6)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/abb26c99-43a7-4581-8dc8-16721ad62415)
 
-As observed, the trends in the number of released albums and tracks demonstrate a similar pattern. Both show an increasing trend over the years, with artists exhibiting notably higher activity levels during the month of January.
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/92648306-06e5-4bcc-8241-53616ad47baf)
+
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/0b0e0cc4-162d-45ed-bf4f-728087701e82)
+
+Upon observation, it is evident that there is a noteworthy parallel between the trends in the number of released albums and tracks. Both exhibit an upward trajectory over the years, with artists displaying particularly heightened levels of activity during the month of January. Analyzing the distribution of releases by year and month, the pronounced surge during the month of January persists until approximately 2013 or 2014, after which the activity becomes more evenly spread across different months.
 
 ## Evolution of Audio Features
 
@@ -83,7 +87,7 @@ This project examines 11 music attributes provided by Spotify. Here is the expla
 It is clear that certain audio features, including danceability, loudness, and tempo, have exhibited an upward trend in recent years. Conversely, features such as instrumentalness, valence, and duration_ms have demonstrated a downward trend. This suggests that there is a growing preference among listeners for music that offers heightened sensory stimulation. This trend aligns with the increasing popularity of short videos, which also emphasize quick and impactful content experiences.
 
 ## Correlation between Audio Features and the State of the US Economy.
-Considering the variations in the audio features over the years, it would be intriguing to explore their correlation with the economy. To investigate this, we will utilize the Nasdaq Composite Index (^IXIC), the S&P 500 Index (^SPX), and the Dow Jones Index (^DJI) as proxies for the economy.
+Considering the variations in the audio features over the years, it would be intriguing to explore their correlation with the economy. To investigate this, we will utilize the Nasdaq Composite Index (^IXIC), the S&P 500 Index (^SPX), and the Dow Jones Index (^DJI) as proxies for tracking the US economy.
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/c04a4b25-65c5-4e63-a967-2a0608e433c8)
 
