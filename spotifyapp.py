@@ -1,3 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Spotify Data Fetcher
+
+This script fetches data from the Spotify API related to artists, albums, tracks, and their analysis
+based on a given genre.
+
+Author: [Ou Jin]
+"""
+
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import json
@@ -9,12 +19,14 @@ from dotenv import load_dotenv
 
 class SpotifyClient(object):
     def __init__(self, genre='Pop'):
+        # Constructor method to initialize the class
         self.genre = genre
         self.authenticate()
         self.get_genre_artist()
         self.create_artist_df()
 
     def authenticate(self):
+        # Method to authenticate with the Spotify API
         load_dotenv()
         client_id = os.getenv('client_id')
         client_secret = os.getenv('client_secret')
@@ -24,7 +36,7 @@ class SpotifyClient(object):
             client_credentials_manager=client_credentials_manager)
 
     def get_genre_artist(self):
-
+        # Method to fetch artists based on a given genre
         os.makedirs('genre_artist', exist_ok=True)
         genre_artist = []
 
@@ -40,6 +52,7 @@ class SpotifyClient(object):
             json.dump(genre_artist, f)
 
     def create_artist_df(self):
+        # Method to create a DataFrame of artists
         with open('./genre_artist/{}_artists.json'.format(self.genre),
                   'r') as f:
             artists = json.load(f)
@@ -60,6 +73,7 @@ class SpotifyClient(object):
         self.artist_id_list = self.artist_df['artist_id'].to_list()
 
     def get_artist_album(self):
+        # Method to fetch albums for each artist
         os.makedirs('artist_album', exist_ok=True)
 
         for artist_id in self.artist_id_list:
@@ -75,6 +89,7 @@ class SpotifyClient(object):
                 json.dump(artist_album, f)
 
     def create_album_df(self):
+        # Method to create a DataFrame of albums
         album_list = []
         for file in os.listdir('./artist_album/'):
             artist_id = file.split('_')[0]
@@ -98,6 +113,7 @@ class SpotifyClient(object):
         ).to_list()
 
     def get_album_track(self):
+        # Method to fetch tracks for each album
         os.makedirs('artist_track', exist_ok=True)
 
         for artist_id in self.artist_id_list:
@@ -114,6 +130,7 @@ class SpotifyClient(object):
                 json.dump(album_track, f)
 
     def create_track_df(self):
+        # Method to create a DataFrame of tracks
         track_list = []
 
         for file in os.listdir('./artist_track/'):
@@ -147,6 +164,7 @@ class SpotifyClient(object):
         self.track_df = track_df[track_df['album_id'].isin(self.album_id_list)]
 
     def get_track_analysis(self):
+        # Method to fetch track analysis for each track
         os.makedirs('track_analysis', exist_ok=True)
         for artist_id in self.artist_id_list:
             track_sublist = self.track_df[
@@ -165,6 +183,7 @@ class SpotifyClient(object):
                 json.dump(track_analysis, f)
 
     def create_analysis_df(self):
+        # Method to create a DataFrame of track analysis
         analysis_list = []
 
         for file in os.listdir('./track_analysis/'):
