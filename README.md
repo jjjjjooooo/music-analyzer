@@ -51,13 +51,17 @@ These artists have proven their significance and impact on the music industry, c
 ## Evolution of Market Size
 The evolution of market size is analyzed in terms of the number of albums and tracks released, both on a yearly and monthly basis.
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/7828494f-0c91-42eb-b719-41a8a6bb388d)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/8196be97-9087-4c84-b1b0-7c9fc2fd62b9)
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/c52b7850-1435-4f2a-bb8d-b7fc42a7ca5d)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/dca27ba5-e401-4795-9341-3eddd6302cd5)
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/d573c289-5505-4326-a3ce-1e720cc466a0)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/8b99cd9a-e4cf-4b94-a809-3f252b60f31b)
 
-![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/d6577120-6841-4894-b5c3-fcae06f7c9f6)
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/abb26c99-43a7-4581-8dc8-16721ad62415)
+
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/93cb813c-348b-43dd-9ed6-1eabffe45cb3)
+
+![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/0b0e0cc4-162d-45ed-bf4f-728087701e82)
 
 As observed, the trends in the number of released albums and tracks demonstrate a similar pattern. Both show an increasing trend over the years, with artists exhibiting notably higher activity levels during the month of January.
 
