@@ -83,7 +83,7 @@ This project examines 11 music attributes provided by Spotify. Here is the expla
 It is clear that certain audio features, including danceability, loudness, and tempo, have exhibited an upward trend in recent years. Conversely, features such as instrumentalness, valence, and duration_ms have demonstrated a downward trend. This suggests that there is a growing preference among listeners for music that offers heightened sensory stimulation. This trend aligns with the increasing popularity of short videos, which also emphasize quick and impactful content experiences.
 
 ## Correlation between Audio Features and the State of the US Economy.
-Considering the variations in the audio features over the years, it would be intriguing to explore their correlation with the economy. To investigate this, we will utilize the Nasdaq Composite Index (^IXIC), the S&P 500 Index (^SPX), and the Dow Jones Index (^DJI) as proxies for the economy.
+Considering the variations in the audio features over the years, it would be intriguing to explore their correlation with the economy. To investigate this, we will utilize the Nasdaq Composite Index (^IXIC), the S&P 500 Index (^SPX), and the Dow Jones Index (^DJI) as proxies for tracking the US economy.
 
 ![image](https://github.com/jjjjjooooo/music-analyzer/assets/50882720/c04a4b25-65c5-4e63-a967-2a0608e433c8)
 
